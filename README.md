@@ -6,7 +6,7 @@ web-based real-time hand gesture recognition with React.js, Tensorflow.js and Fi
 - react-webcam
 - fingerpose
 ## Demo
-[![CPT2201200133-640x480.gif](https://i.postimg.cc/x1vTfQNm/CPT2201200133-640x480.gif)](https://postimg.cc/CRKV7WNM)
+[![CPT2201200131-640x480.gif](https://i.postimg.cc/nzgCskF9/CPT2201200131-640x480.gif)](https://postimg.cc/ft7wpY0M)
 ## Quick Start
 ```javascript
 // Install dependencies
