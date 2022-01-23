@@ -1,5 +1,5 @@
 # Gesture Recognition
-web-based real-time hand gesture recognition with React.js, Tensorflow.js and Fingerpose
+web-based real-time hand gesture recognition with React.js, Tensorflow.js, and Fingerpose
 ## Dependencies
 - @tensorflow/tfjs
 - @tensorflow-models/handpose
